@@ -6,6 +6,9 @@ since I am still proud of it, I keep it online as it is.
 
 ## Author
 
-&copy; 2019 [Mikołaj Bartnicki](mailto:mikolaj@bartnicki.org)
+&copy; 2019 [Mikołaj Bartnicki][98]
 
-The text and images are copyrighted; the code is [Unlicensed](LICENSE).
+The text and images are copyrighted; the code is [unlicensed][99].
+
+[98]:mailto:mikolaj@bartnicki.org
+[99]:UNLICENSE
